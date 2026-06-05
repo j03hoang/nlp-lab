@@ -1,0 +1,7 @@
+.venv/
+venv/
+
+.env
+
+.idea/
+assets/glove.6B.100d.txt
